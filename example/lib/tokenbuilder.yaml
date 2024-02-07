@@ -1,4 +1,4 @@
-tokenFilePath: lib/tokens.json
+tokenFilePath: assets/tokens.json
 defaultSetName: global
 
 fontConfig:
